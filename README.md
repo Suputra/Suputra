@@ -1,6 +1,7 @@
 - 👋 Hi, I’m:
   - [ENGLISH] Saahas Yechuri
   - [తెలుగు] సాహస యేచూరి
+  - [हिंदुस्तानी] साहस येचुरी
   - [INTERNET] @Suputra
 - 👀 I’m interested in Robotics & Bio-inspired Design
 - 🌱 I’m currently learning C/C++ & ROS for Robotics & about ants, bees, and plants
