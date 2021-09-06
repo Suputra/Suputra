@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @Suputra
+- 👋 Hi, I’m:
+  - [ENGLISH] Saahas Yechuri
+  - [తెలుగు] సాహస యేచూరి
+  - [INTERNET] @Suputra
 - 👀 I’m interested in Robotics & Bio-inspired Design
 - 🌱 I’m currently learning C/C++ & ROS for Robotics & about ants, bees, and plants
 - 💞️ I’m looking to collaborate on anything cool, hmu
