@@ -3,8 +3,8 @@
   - [తెలుగు] సాహస యేచూరి
   - [हिंदुस्तानी] साहस येचुरी
   - [INTERNET] @Suputra
-- 👀 I’m interested in Robotics & Bio-inspired Design
-- 🌱 I’m currently learning C/C++ & ROS for Robotics & about ants, bees, and plants
+- 👀 I’m interested in Robotics, Networking, and Bio-inspired things
+- 🌱 I’m currently learning about Controls and FPGA design
 - 💞️ I’m looking to collaborate on anything cool, hmu
 - 📫 How to reach me 
   - 📧 saahas.yechuri[AT]gatech[DOT]edu
