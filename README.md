@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning about Controls and FPGA design
 - 💞️ I’m looking to collaborate on anything cool, hmu
 - 📫 How to reach me 
-  - 📧 saahas.yechuri[AT]gatech[DOT]edu
+  - 📧 saahas[AT]gatech[DOT]edu
 
 <!---
 Suputra/Suputra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
